@@ -51,9 +51,9 @@ public class LOG1 {
         inventoryPage.clickSortButton();
         inventoryPage.selectLowToHighSort();
         inventoryPage.checkLowToHighSort();
-        //inventoryPage.checkTwitterLink();
-        //inventoryPage.checkFacebookLink();
-        //inventoryPage.checkLinkedinLink();
+        inventoryPage.checkTwitterLink();
+        inventoryPage.checkFacebookLink();
+        inventoryPage.checkLinkedinLink();
         inventoryPage.addChepestItemToCart();
         inventoryPage.verifyCartBadge();
         inventoryPage.openCart();
