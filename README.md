@@ -1,4 +1,4 @@
+- **Web page:** [https://www.saucedemo.com/](https://www.saucedemo.com/)
+- **Selenium+Java+TestNG**
 
-Web page: https://www.saucedemo.com/
-Selenium+Java+TestNG
-([https://docs.google.com/spreadsheets/d/1pKQlrYgRByaLDD304HjxAqlBHoRtjmvZrpMN0DMnrcA/edit?usp=sharing ](https://docs.google.com/spreadsheets/d/1pKQlrYgRByaLDD304HjxAqlBHoRtjmvZrpMN0DMnrcA/edit?usp=sharing))
+[Google Sheets Documentation](https://docs.google.com/spreadsheets/d/1pKQlrYgRByaLDD304HjxAqlBHoRtjmvZrpMN0DMnrcA/edit?usp=sharing)
